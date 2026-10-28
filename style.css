@@ -245,7 +245,7 @@ a{
     font-size: clamp(36px, 9vw, 48px);
   }
   .hero-image{
-    min-width: none;
+    min-width: auto;
     min-height: 180px;
   }
   .information-section{
